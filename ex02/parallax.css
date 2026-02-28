@@ -1,0 +1,54 @@
+body,html{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    padding: 0;
+}
+
+header {
+    position: absolute;
+    width: 100%;
+    
+}
+
+.parallax {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 500px;
+}
+
+.scroll-up {
+    background-color: black;
+    padding: 10px;
+    padding-left: 20px;
+    border-radius: 1-px;
+    color: aliceblue;
+    font-style: oblique;
+}
+
+#Tuscany{
+background-image:url(img/Tuscany.jpg);
+height: 100vh;
+}
+#pisa{
+ background-image:url(img/Pisaa.jpeg) ; 
+height: 100vh;
+}
+#florence{
+background-image:url(img/florence2.jpg);
+height: 100vh;
+}
+
+/* div{
+font-size: x-large;
+font-style: oblique;
+color: rgba(2, 20, 36, 0.192);
+height: 100px;font-size:36px"
+
+} */
+
