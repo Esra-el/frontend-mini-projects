@@ -1,0 +1,27 @@
+#photo{
+    background-image:url(dog.jpeg);
+height: 25vh;
+}
+#Contact {
+    background-color: black;
+    color: white;
+    margin-top: 100px;
+    padding: 200px;
+}
+
+table{
+    border-collapse: collapse;
+    margin: auto;
+    margin-top: 100px;
+    width: 250px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  
+   
+}
+tr{
+   height: 10px;
+}
+td,th{
+    text-align: center;
+    padding: 2px;
+}
